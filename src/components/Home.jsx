@@ -97,7 +97,7 @@ const Home = () => {
           <span className=" icon badge text-bg-secondary text-dark">CSS3</span>
           <span className=" icon badge text-bg-secondary text-dark">JavaScript</span>
           <span className="icon badge text-bg-secondary text-dark">React</span>
-          <p className='descripcion-proyecto'>Proyecto de juego tres en linea construido en react</p>
+          <p className='descripcion-proyecto'>Juego llamado tres en linea construido en react</p>
           <p className='iconos'>
           <a href="https://tresenlinea.netlify.app/" target='_blank'><i className="bi bi-globe"></i></a>
           <a href="https://github.com/Xanderg19/TresEnLinea" target='_blank'><i className="bi bi-github"></i></a>
